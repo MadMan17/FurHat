@@ -691,7 +691,7 @@
             },
             ".form-control-label": {},
             ".mbr-section-title B": {
-              "color": "#ffffff"
+              "color": "#eeeeee"
             },
             ".mbr-section-text": {
               "color": "#ffffff"
