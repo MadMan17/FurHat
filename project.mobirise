@@ -151,7 +151,7 @@
             },
             ".mbr-section-title": {
               "font-weight": "700",
-              "font-size": "60px"
+              "font-size": "48px"
             }
           },
           "alias": "colorm/components",
@@ -180,7 +180,7 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "Шапки, подчёркивающие Вашу индивидуальность",
+          "title": "Шапки, подчёркивающие Вашу индивидуальность!<br>",
           "text": "Шапки из искуственного меха в екатеринбурге.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove,-mbrBtnColor\"><span class=\"socicon socicon-vkontakte mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove,-mbrBtnColor\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span></a>",
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png"
