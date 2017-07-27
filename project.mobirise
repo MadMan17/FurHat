@@ -599,7 +599,7 @@
             ],
             "showImages": true,
             "showName": true,
-            "showBio": true,
+            "showBio": false,
             "parallax": false,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/flight-mountains-sky-flying.jpg",
@@ -613,7 +613,7 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#000",
             "showTitle": true,
-            "showSubtitle": true,
+            "showSubtitle": false,
             "showBullets": true,
             "visibleSlides": "3",
             "controlBgLeft": "@PROJECT_PATH@/assets/images/left.png",
@@ -719,27 +719,27 @@
           "form": {
             "action": "kirillvakolyuk@mail.ru",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Спасибо за Вашу заявку! Наш менеджер свяжется с вами в ближайшее время."
             },
             "fields": {
               "name": {
                 "title": "Name",
                 "visible": true,
-                "customTitle": "Name*"
+                "customTitle": "Имя"
               },
               "email": {
                 "title": "Email",
                 "visible": true,
-                "customTitle": "Email*"
+                "customTitle": "Адрес электронной почты"
               },
               "phone": {
                 "title": "Phone",
                 "visible": true,
-                "customTitle": "Phone"
+                "customTitle": "Телефон"
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Комментарий"
               }
             }
           },
@@ -807,7 +807,7 @@
           "titled1": "Private policy",
           "titled2": "Terms & Conditions",
           "titled3": "Copyright Notifications",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove,-mbrBtnColor\"><span class=\"socicon socicon-vkontakte mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove,-mbrBtnColor\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "text": "Copyright (c) 2017 FurHat."
         }
       ]
