@@ -17,7 +17,7 @@
         "subtitleFont": "Montserrat",
         "textFont": "Open Sans",
         "isRoundedButtons": true,
-        "isAnimatedOnScroll": true,
+        "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
       }
     },
