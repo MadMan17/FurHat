@@ -860,8 +860,11 @@ blockquote {
   letter-spacing: 2px;
   color: #fff;
 }
-#testimonials1-h .card-block p {
+#testimonials1-w .card-block p {
   font-size: 15px;
+}
+#testimonials1-w .card-block P {
+  color: #333333;
 }
 #form1-r .mbr-section-subtitle {
   text-transform: uppercase;

@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 30,
+    "uniqCompNum": 33,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -528,6 +528,9 @@
           "_styles": {
             ".card-block p": {
               "font-size": "15px"
+            },
+            ".card-block P": {
+              "color": "#333333"
             }
           },
           "alias": "colorm/components",
@@ -537,73 +540,66 @@
           "_name": "testimonials1",
           "_params": {
             "autoplay": true,
-            "timeout": "4",
+            "timeout": 5,
             "paddingTop": 2,
             "paddingBottom": 1,
             "slides": [
               {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/zrw-x0q8eiq-160x160.jpg",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                },
+                "authorName": "Анастасия П.",
+                "authorBio": "DEVELOPER",
+                "text": "<p>Шубка хорошая,мягкий и приятный на ощупь мех,доступная цена. Также бы хотелось отметить, что искусственный мех очень похож на натуральный. Очень радует качество обслуживания!! Очень благодарна за внимательный подход Ольге! И отдельное спасибо Юле ,за отлично посаженную по фигуре шубку!!</p>"
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/pl-sn0uk-p4-160x154.jpg",
+                    "class": "img-circle",
+                    "link": "https://mobirise.com",
+                    "height": 160,
+                    "width": 160,
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                },
+                "authorName": "Тая Б.",
+                "authorBio": "USER",
+                "text": "<p>&nbsp;Я очень довольна своей новой шубкой. И красивая, и теплая, и я наконец-то не мерзну . Жаль, что я не знала о вас раньше&nbsp;</p>"
+              },
+              {
                 "active": true,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/face1.jpg",
+                    "src": "@PROJECT_PATH@/assets/images/ppc-2-dy1fq-159x160.jpg",
                     "class": "img-circle",
                     "link": "https://mobirise.com",
                     "height": 160,
                     "width": 160,
-                    "active": true
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
                   }
                 },
-                "authorName": "Юлия В.",
-                "authorBio": "DEVELOPER",
-                "text": "<p>“A major turning point in the history of early philosophical science was the controversial”</p>"
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/face2.jpg",
-                    "class": "img-circle",
-                    "link": "https://mobirise.com",
-                    "height": 160,
-                    "width": 160,
-                    "active": true
-                  }
-                },
-                "authorName": "Анастасия М.",
+                "authorName": "Екатерина П.",
                 "authorBio": "USER",
-                "text": "<p>“A major tturning point in the history of early philosophical science was the controversial ”</p>"
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/face3.jpg",
-                    "class": "img-circle",
-                    "link": "https://mobirise.com",
-                    "height": 160,
-                    "width": 160,
-                    "active": true
-                  }
-                },
-                "authorName": "Екатерина Л.",
-                "authorBio": "USER",
-                "text": "<p>“A major tturning point in the history of early philosophical science was the controversial ”</p>"
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/face4.jpg",
-                    "class": "img-circle",
-                    "link": "https://mobirise.com",
-                    "height": 160,
-                    "width": 160,
-                    "active": true
-                  }
-                },
-                "authorName": "Мария В.",
-                "authorBio": "USER",
-                "text": "<p>\"A major tturning point in the history of early philosophical science was the controversial \"</p>"
+                "text": "<p>Я очень благодарна вам что вы продаете такие замечательные шубки, достойные альтернативы настоящим! Моей радости нет предела!!! Шубка очень красивая, качественная и теплая) Муж поражен что за такие небольшие деньги я купила настолько классную шубу!</p>"
               }
             ],
             "showImages": true,
@@ -622,14 +618,14 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#000",
             "showTitle": true,
-            "showSubtitle": false,
+            "showSubtitle": true,
             "showBullets": true,
             "visibleSlides": "3",
             "controlBgLeft": "@PROJECT_PATH@/assets/images/left.png",
             "controlBgRight": "@PROJECT_PATH@/assets/images/right.png"
           },
-          "_anchor": "testimonials1-h",
-          "title": "Отзывы довольных клиентов",
+          "_anchor": "testimonials1-w",
+          "title": "What our fantastic users say",
           "subtitle": "Shape your future web project with sharp design and refine coded functions."
         },
         {
