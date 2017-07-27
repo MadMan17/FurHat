@@ -151,7 +151,7 @@
             },
             ".mbr-section-title": {
               "font-weight": "700",
-              "font-size": "84px",
+              "font-size": "60px",
               "text-align": "left"
             },
             ".mbr-section-subtitle": {
